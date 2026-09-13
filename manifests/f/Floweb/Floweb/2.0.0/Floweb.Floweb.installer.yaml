@@ -2,15 +2,15 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Floweb.Floweb
-PackageVersion: 1.8.3
+PackageVersion: 2.0.0
 InstallerType: nullsoft
 Scope: user
 UpgradeBehavior: install
 ProductCode: Floweb
-ReleaseDate: 2026-09-09
+ReleaseDate: 2026-09-13
 Installers:
 - Architecture: x64
   InstallerUrl: https://download.once.work/Floweb_latest_x64-setup.exe
-  InstallerSha256: 7909B1E36E45A325D37FA2FBD3FE502B71C911E4A0D7AF486B0B3EAE065E94A6
+  InstallerSha256: 2AB626110B820795E68B5AAB610FFB5AF39C83FFFA3F349BDE4C1A7E7C88A348
 ManifestType: installer
 ManifestVersion: 1.12.0
